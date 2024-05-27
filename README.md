@@ -52,7 +52,7 @@
 - **Interactive Visualization**: Visualize prescription data through interactive charts and graphs for intuitive exploration.
 - **Personalized Recommendations**: Generate personalized treatment recommendations based on patient history and condition.
 - **Scalable Architecture**: Built on scalable architecture to handle large datasets and ensure fast processing.
-- 
+
 ## Technology Stack
 
 - **NumPy**: Used for numerical operations.
