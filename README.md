@@ -2,6 +2,7 @@
 
  "AI Pharma Insights:  is a powerful tool for analyzing prescription drug data using artificial intelligence and machine learning techniques. By leveraging advanced algorithms and interactive visualization, PrescriptionAI aims to provide valuable insights into drug prescriptions, optimize treatment recommendations, and enhance patient care.
 
+<<<<<<< HEAD
 
 ## Dataset Sample
 
@@ -12,6 +13,8 @@
 | 155963   | Cialis                  | Benign Prostatic Hyperplasia | "2nd day on 5mg started to work with rock hard erections; however, experienced headache, lower bowel pressure. 3rd day erections would wake me up & hurt! Leg/ankles aches; severe lower bowel pressure like you need to go #2 but can't! Enjoyed the initial rock-hard erections but not at these side effects or $230 for months' supply! I'm 50 & work out 3Xs a week. Not worth side effects!" | 2      | ###### | 43          |
 
 
+=======
+>>>>>>> ef312279fe4345d1a4c57c91ffe84593d8a5057e
 ## Algorithm Explanation
 
 ### Data Loading and Initial Exploration:
